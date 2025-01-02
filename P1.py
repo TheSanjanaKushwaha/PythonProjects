@@ -1,1 +1,0 @@
-print("(sst bst science)")
